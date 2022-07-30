@@ -1,1 +1,1 @@
-# Choosing-Ideal-Seattle-Airbnb
+# Choosing Ideal Seattle Airbnbs
