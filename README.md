@@ -1,4 +1,4 @@
-# Choosing Ideal Seattle Airbnbs
+# Choosing Seattle Airbnbs
 The exploratory analysis of Airbnb data gives valuable insight for selecting an ideal Seattle Airbnb.
 
 ## Installation <a name="installation"></a>
