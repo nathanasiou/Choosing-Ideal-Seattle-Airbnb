@@ -21,7 +21,7 @@ There is one notebook to display work related to the inquiries. The notebook is 
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here] (https://medium.com/@nicoleath/selecting-a-seattle-stay-600a21b2ef5f).
+The main findings of the code can be found at the post available [here](https://medium.com/@nicoleath/selecting-a-seattle-stay-600a21b2ef5f).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
